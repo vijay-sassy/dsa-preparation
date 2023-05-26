@@ -34,6 +34,17 @@ public class SinglyLinkedList {
 	public void insertAtGivenPosition(int position) {
 		Node newNode = new Node(5);
 		
+		if (head == null) {
+			head = newNode;
+			return;
+		}
+		
+		if (position == 1) {
+			newNode.next = head;
+			head = newNode;
+			return;
+		}
+		
 		Node current = head;
         for (int i = 1; i < position-1; i++) {
         	current = current.next;
@@ -43,16 +54,26 @@ public class SinglyLinkedList {
 	}
 	
 	public void insertInSortedLinkedList(int data) {
-		Node current = head;
 		Node insertNode = new Node(data);
+		if (head == null) {
+			head = insertNode;
+			return;
+		}
 		
-		if (data <= current.data) {
-			insertNode.next = current;
-			
+		if (data <= head.data) {
+			insertNode.next = head;
+			head = insertNode;
+			return;
 		}
-		while (current.next.data <= data) {
-			
+		
+		Node current = head;
+		while (current.next != null && data > current.next.data) {
+			current = current.next;			
 		}
+		if (current.next != null) {
+		    insertNode.next = current.next;
+		}
+		current.next = insertNode;
 	}
 	
 	//TC is O(1) & SC is O(1)
@@ -91,9 +112,10 @@ public class SinglyLinkedList {
 		Node third = new Node(3);
 		list.head.next = second;
 		second.next = third;
-		list.insertAtBeginning();
+/*		list.insertAtBeginning();
 		list.insertAtEnd();
-		list.insertAtGivenPosition(3);
+		list.insertAtGivenPosition(3);*/
+		list.insertInSortedLinkedList(4); 
 //		list.deleteFirstNode();
 //		list.deleteLastNode();
 //		list.deleteNodeWithPointer(third);
