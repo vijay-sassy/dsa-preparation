@@ -17,3 +17,4 @@
 | 9  | 2-June-2023 | Duplicate in array N+1 | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | Medium             | Hard              | Cannot Solve |
 | 10 | 2-June-2023 | Repeat & Missing Number  | [Link](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Medium             | Hard              | Cannot Solve |
 | 11 | 3-June-2023 | Inversion of Array  | [Link](https://www.codingninjas.com/codestudio/problems/count-inversions_615) | Medium             | Hard              | Cannot Solve |
+| 12 | 5-June-2023 | Merge Sorted Array  | [Link](https://leetcode.com/problems/merge-sorted-array/) | Easy             | Hard              | Cannot Solve |
