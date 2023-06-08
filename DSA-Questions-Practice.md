@@ -20,4 +20,6 @@
 | 12 | 4-June-2023 |   |  |              |               |  |
 | 13 | 5-June-2023 | Merge Sorted Array  | [Link](https://leetcode.com/problems/merge-sorted-array/) | Easy             | Hard              | Cannot Solve |
 | 14 | Previous | Majority Element >N/2  | [Link](https://leetcode.com/problems/majority-element/) | Easy             | Hard              | Solved after seeing approach |
-| 14 | 6-June-2023 | Majority Element >N/3  | [Link](https://leetcode.com/problems/majority-element-ii/) | Easy             | Hard              | Solved after seeing approach |
+| 15 | 6-June-2023 | Majority Element >N/3  | [Link](https://leetcode.com/problems/majority-element-ii/) | Easy             | Hard              | Solved after seeing approach |
+| 16 | 7-June-2023 |
+| 17 | 8-June-2023 | Pow(x,n)  | [Link](https://leetcode.com/problems/powx-n/) | Medium             | Hard              | Cannot solve |
