@@ -23,3 +23,5 @@
 | 15 | 6-June-2023 | Majority Element >N/3  | [Link](https://leetcode.com/problems/majority-element-ii/) | Easy             | Hard              | Solved after seeing approach |
 | 16 | 7-June-2023 |
 | 17 | 8-June-2023 | Pow(x,n)  | [Link](https://leetcode.com/problems/powx-n/) | Medium             | Hard              | Cannot solve |
+| 18 | 9-June-2023 |
+| 19 | 10-June-2023 |
