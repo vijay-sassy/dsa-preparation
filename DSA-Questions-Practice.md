@@ -25,3 +25,5 @@
 | 17 | 8-June-2023 | Pow(x,n)  | [Link](https://leetcode.com/problems/powx-n/) | Medium             | Hard              | Cannot solve |
 | 18 | 9-June-2023 |
 | 19 | 10-June-2023 |
+| 20 | 11-June-2023 |
+| 21 | 12-June-2023 | Search in a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | Medium        | Easy              | Able to solve |
