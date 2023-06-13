@@ -27,3 +27,8 @@
 | 19 | 10-June-2023 |
 | 20 | 11-June-2023 |
 | 21 | 12-June-2023 | Search in a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | Medium        | Easy              | Able to solve |
+| 22 | 13-June-2023 | 2 Sum | [Link](https://leetcode.com/problems/two-sum/) | Easy        | Easy              | Able to solve |
+| 23 | Previous | Reverse Linked List | [Link](https://leetcode.com/problems/reverse-linked-list/) | Easy        | Easy              | Able to solve |
+| 24 | Previous | Middle of the Linked List | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy        | Easy              | Able to solve |
+| 25 | 13-June-2023 | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | Easy        | Easy              | Able to solve |
+| 26 | 13-June-2023 | Remove Duplicate from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy        | Easy              | Able to solve |
