@@ -32,3 +32,4 @@
 | 24 | Previous | Middle of the Linked List | [Link](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy        | Easy              | Able to solve |
 | 25 | 13-June-2023 | Max Consecutive Ones | [Link](https://leetcode.com/problems/max-consecutive-ones/) | Easy        | Easy              | Able to solve |
 | 26 | 13-June-2023 | Remove Duplicate from Sorted Array | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy        | Easy              | Able to solve |
+| 27 | 5-July-2023 | Sort an array of 0's, 1's and 2's | [Link](https://leetcode.com/problems/sort-colors/) | Medium        | Hard              | Solved after seeing approach |
