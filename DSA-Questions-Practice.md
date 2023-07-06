@@ -35,3 +35,4 @@
 | 27 | BREAK |
 | 28 & 6 | 5-July-2023 | Sort an array of 0's, 1's and 2's | [Link](https://leetcode.com/problems/sort-colors/) | Medium        | Hard              | Solved after seeing approach |
 | 29 & 13 | 6-July-2023 | Merge Sorted Array  | [Link](https://leetcode.com/problems/merge-sorted-array/) | Easy             | Hard              | Solved after seeing approach |
+| 30 | 6-July-2023 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium        | Hard              | Solved after seeing approach |
