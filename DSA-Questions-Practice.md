@@ -38,3 +38,5 @@
 | 30 | 6-July-2023 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium        | Hard              | Solved after seeing approach |
 | 31 | 7-July-2023 |
 | 32 | 8-July-2023 | 4 Sum | [Link](https://leetcode.com/problems/4sum/) | Medium        | Hard              | Solved after seeing approach |
+| 33 | BREAK |
+| 34 | 19-July-2023 | Largest subarray with K sum | [Link](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Easy        | Hard              | Solved after seeing approach |
