@@ -40,3 +40,5 @@
 | 32 | 8-July-2023 | 4 Sum | [Link](https://leetcode.com/problems/4sum/) | Medium        | Hard              | Solved after seeing approach |
 | 33 | BREAK |
 | 34 | 19-July-2023 | Largest subarray with K sum | [Link](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Easy        | Hard              | Solved after seeing approach |
+| 35 | 20-July-2023 | Count subarrays with given XOR | [Link](https://www.interviewbit.com/problems/subarray-with-given-xor/) | Medium        | Hard              | Cannot solve |
+| 36 | 20-July-2023 | Longest subarray without repeat | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium        | Hard              | Cannot solve |
