@@ -40,6 +40,7 @@
 | 32 | 19-July-2023 | Largest subarray with K sum | [Link](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Easy        | Hard              | Solved after seeing approach |
 | 33 | 20-July-2023 | Count subarrays with given XOR | [Link](https://www.interviewbit.com/problems/subarray-with-given-xor/) | Medium        | Hard              | Cannot solve |
 | 34 | 20-July-2023 | Longest substring without repeat | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium        | Hard              | Cannot solve | Solved on 23-July-2023 |
-| 35 | 21-Julu-2023 |
+| 35 | 21-July-2023 |
 | 36 | 22-July-2023 |
-| 37 | 13-July-2023 |
+| 37 | 23-July-2023 |
+| 24 | Previous | Delete node in a linked list | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium   | Easy   | Able to solve |
