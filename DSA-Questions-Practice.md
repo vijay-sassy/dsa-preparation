@@ -43,6 +43,8 @@
 | 35 | 21-July-2023 |
 | 36 | 22-July-2023 |
 | 37 | 23-July-2023 |
-| 24 | Previous | Delete node in a linked list | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium   | Easy   | Able to solve |
-| 36 | 25-July-2023 |
-| 37 | 26-July-2023 |
+| 38 | Previous | Delete node in a linked list | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium   | Easy   | Able to solve |
+| 39 | 25-July-2023 |
+| 40 | 26-July-2023 |
+| 41 | BREAK |
+| 42 | 15-August-2023 | Reverse Words in a String | [Link](https://leetcode.com/problems/reverse-words-in-a-string) | Medium   | Easy   | Able to solve |
